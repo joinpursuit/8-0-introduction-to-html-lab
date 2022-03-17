@@ -39,7 +39,8 @@ Create a file named `sundial.html`.
 In the file you are going to copy and paste the Sundial text below into your html file.
 
 ```html
-Sundial From Wikipedia, the free encyclopedia. A sundial measures time by the
+Sundial 
+From Wikipedia, the free encyclopedia. A sundial measures time by the
 position of the sun. The most commonly seen designs, such as the 'ordinary' or
 standard garden sundial, cast a shadow on a flat surface marked with the hours
 of the day. As the position of the sun changes, the time indicated by the shadow
