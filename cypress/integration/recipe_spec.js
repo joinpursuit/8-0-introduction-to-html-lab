@@ -12,6 +12,7 @@ describe("Recipe", () => {
     cy.get("img").should("have.length", 1).and("be.visible");
     cy.get("img").should("have.attr", "alt");
     cy.get("img").should("have.attr", "src");
+    cy.get("img").should("have.attr", "width")
   });
 
   it("should have the three sub headers", () => {
@@ -31,6 +32,8 @@ describe("Recipe", () => {
 
   it("should include an unordered ingredients list", () => {
     cy.get("ul").children().its("length").should("be.gte", 3);
+    cy.get("ul").contains('dope');
+    cy.contains('ul', 'apple');
   });
 
   it("should include an ordered directions list", () => {
@@ -45,4 +48,8 @@ describe("Recipe", () => {
     cy.get("a").should("have.length", 1).and("be.visible");
     cy.get("a").should("have.attr", "href");
   });
+
+  it("should have a third header", () => {
+    cy.get('h3').should("have.length", 2);
+  })
 });
