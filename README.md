@@ -75,7 +75,7 @@ Your challenge will be to add HTML tags to make your file look like the one in t
 - paragraphs (`<p>`)
 - emphasis and strong (`<em>` and `<strong>`)
 
-A web browser will display the `h1` heading very large, and the `h6` heading quite small, and all the other headings in between! But don't get into the habit of selecting an `h4` heading just because it's the size you want! You can always modify the size of your elements using your stylesheet (more on that later).
+A web browser will display the `h1` heading very large, and the `h6` heading quite small, and all the other headings in between! But don't get into the habit of selecting an `h4` heading just because it's the size you want! You can always modify the size of your elements using your stylesheet (more on that later).x
 
 The key is to use the headings to structure your information in a useful (and meaningful) way! For example, every page should only ever have one main heading - your `h1` heading. An `h2` heading should only ever be a sub-heading of your `h1` heading. Similarly, an `h3` heading should only ever be a sub-heading of an `h2` heading etc.
 
