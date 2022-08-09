@@ -67,6 +67,7 @@ Now double click the file to open it in your browser and you'll see it doesn't l
 
 [![Html challenge1.png](https://upload.wikimedia.org/wikiversity/en/3/3d/Html_challenge1.png)](https://en.wikiversity.org/wiki/File:Html_challenge1.png#/media/File:Html_challenge1.png)
 
+
 _By Michael Nelson - screenshot on ubuntu linux, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5 "Creative Commons Attribution 2.5")_
 
 Your challenge will be to add HTML tags to make your file look like the one in the image:
