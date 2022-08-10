@@ -1,6 +1,6 @@
 describe("Sundial", () => {
   it("visits sundial.html", () => {
-    cy.visit("./sundial.html");
+    cy.visit("./.html");
   });
   it("should have a main header", () => {
     cy.get("h1").contains("Sundial");
