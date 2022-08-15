@@ -11,8 +11,5 @@
     "url": "git+https://github.com/joinpursuit/8-0-introduction-to-html-lab"
   },
   "author": "Pursuit",
-  "license": "ISC",
-  "devDependencies": {
-    "cypress": "^8.3.1"
-  }
+  "license": "ISC"
 }
