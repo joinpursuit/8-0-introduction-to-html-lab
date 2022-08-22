@@ -12,7 +12,7 @@
   },
   "author": "Pursuit",
   "license": "ISC",
-  "devDependencies": {
-    "cypress": "^8.3.1"
+  "dependencies": {
+    "cypress": "^10.4.0"
   }
 }
